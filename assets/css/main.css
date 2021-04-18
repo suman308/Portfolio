@@ -2,4 +2,21 @@
  /* html => https://icongr.am/devicon/html5-original.svg?size=138&color=181616 */
 
 
- 
+ /* this file contains new addition */
+
+ /* 1) all the "what i am good at section"
+ 2) all my work portfolio section 
+ 3) and all other new addition section 
+  */
+
+  .skills {
+      display: flex; 
+      min-height: 800vh; 
+      min-width: 800vh;
+  }
+
+  .skills-ul {
+   display:block; 
+   align-content: space-between;
+   margin: 20px;
+  }
