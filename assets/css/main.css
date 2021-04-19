@@ -11,12 +11,23 @@
 
   .skills {
       display: flex; 
-      min-height: 800vh; 
-      min-width: 800vh;
+      min-height: 80%; 
+     
   }
 
   .skills-ul {
    display:block; 
-   align-content: space-between;
-   margin: 20px;
+   
+   min-height:max-content;
+   margin:20px;
+  }
+
+  .Icons {
+      min-height: 20vh;
+      min-width:20vh;
+      margin: 4vh;
+      
+      align-content: center;
+      font-size:6vh;
+      
   }
