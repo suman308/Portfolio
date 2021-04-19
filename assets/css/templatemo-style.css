@@ -306,8 +306,8 @@ html {
 }
 
 .section-heading .line-dec {
-    width: 60px;
-    height: 3px;
+    width: 400px;
+    height: 5px;
     background-color: #a43f49;
     margin: 10px auto;
 }
@@ -692,9 +692,9 @@ section.contact-me {
 
 @media screen and (max-width: 1680px) and (min-width: 846px) { 
     .menu .social-network ul li a {
-        width: 36px;
-        height: 36px;
-        line-height: 36px;
+        width: 46px;
+        height: 46px;
+        line-height: 46px;
     }
 
     .menu .social-network ul li {
