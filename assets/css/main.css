@@ -25,9 +25,11 @@
   .Icons {
       min-height: 20vh;
       min-width:20vh;
-      margin: 4vh;
+      margin: 2vh;
       
       align-content: center;
-      font-size:6vh;
+      font-size:5vh;
+      
       
   }
+  
