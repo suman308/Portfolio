@@ -34,21 +34,30 @@
   }
 
   .resume {
-      margin-left: 48vh;
+     
+       text-transform: lowercase;
   }
 
   .button {
-      margin:100px;
+      
       text-transform: lowercase;
       font-weight: bold;
+      margin:5px;
+     
 
   }
   .email {
-
-    margin-left: 30vh;
+   
+      text-transform: lowercase;
+   
   }
 
-  .phone {
-        margin-left: 30vh;
+  .mobile {
+      text-transform: lowercase;
+  }
+
+  .email-mobile {
+      display:flex; 
+      
   }
   
