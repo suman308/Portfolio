@@ -42,7 +42,7 @@
       
       text-transform: lowercase;
       font-weight: bold;
-      margin:5px;
+      
      
 
   }
@@ -58,6 +58,11 @@
 
   .email-mobile {
       display:flex; 
+      align-content: space-between;
       
+  }
+
+  .contact {
+     margin: 8vh;
   }
   
