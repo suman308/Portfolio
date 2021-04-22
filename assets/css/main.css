@@ -65,4 +65,9 @@
   .contact {
      margin: 8vh;
   }
+
+  .project{
+      display:block; 
+      background-color: khaki;
+  }
   
